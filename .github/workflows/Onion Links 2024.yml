@@ -2,7 +2,7 @@ name: Onion-Links-2024
 
 on:
   schedule:
-    - cron: '*/3 * * * *'  # Runs every minutes
+    - cron: '*/1 * * * *'  # Runs every minute
 
 jobs:
   Onion-Sites-2024:
