@@ -1,0 +1,25 @@
+name: Onion-Links-2024
+
+on:
+  schedule:
+    - cron: '*/3 * * * *'  # Runs every minutes
+
+jobs:
+  Onion-Sites-2024:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+      
+      - name: Update Onion-Sites-2024.txt
+        run: |
+              echo "$(date -u +'%Y-%m-%d %H:%M:%S') UTC - Update" >> Onion-Sites-2024.txt
+          
+      - name: Commit changes
+        run: |
+          git config --global user.email "arunatelnot31@hotmail.com"
+          git config --global user.name "arunatel"
+          git add Onion-Sites-2024.txt
+          git commit -m "Onion-Sites-2024.txt" || echo "No changes to commit"
+          git push
