@@ -19,8 +19,8 @@ jobs:
           
       - name: Commit and push changes
         run: |
-          git config --global user.email "LinhNguyen694@hotmail.com"
-          git config --global user.name "nyenling"
+          git config --global user.email "arunatelnot31@hotmail.com"
+          git config --global user.name "arunatel"
           git add -A  # Add all changes, including the deletion of Onion-Sites-2024.txt
           git commit -m "Onion-Sites-2024.txt" || echo "No changes to commit"
           git push
