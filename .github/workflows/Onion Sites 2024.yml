@@ -1,0 +1,26 @@
+name: Onion-Links-2024
+
+on:
+  schedule:
+    - cron: '*/1 * * * *'  # Runs every minute
+
+jobs:
+  Onion-Sites-2024:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+      
+      - name: Delete Onion-Sites-2024.txt
+        run: |
+          rm -f Onion-Sites-2024.txt
+          ls -l  # For debugging purposes, list files in the directory to check if Onion-Sites-2024.txt is deleted
+          
+      - name: Commit and push changes
+        run: |
+          git config --global user.email "LinhNguyen694@hotmail.com"
+          git config --global user.name "nyenling"
+          git add -A  # Add all changes, including the deletion of Onion-Sites-2024.txt
+          git commit -m "Onion-Sites-2024.txt" || echo "No changes to commit"
+          git push
