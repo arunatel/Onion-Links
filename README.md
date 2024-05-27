@@ -118,8 +118,8 @@ Welcome to the crème de la crème of clandestine connectivity: the Top 10 Viral
 - [USJUD Counterfeits](http://usjud6uoc5gxmrfyuid4hm3e2slisucbwwnviiltyvdp5pma2xsr7aad.onion/) - All our bills are of 1:1 quality.
 - [Horizon Store](http://hrznstuh7fklpawxt5asormu5plwkqpnymnop4iptalt67ebpu5osiad.onion/) - We sell zero-risk prepaid cards for online & ATM.
 - [Onion Wallet](http://zwf5i7hiwmffq2bl7euedg6y5ydzze3ljiyrjmm7o42ve7ni56fm7qd.onion/) - Safe Tor-based wallet for your dark needs.
-- [Hidden Wallet(http://d46a7ehxj6d6f2cf4hi3b424uzywno24c7qtnvdvwsah5qpogewoeqid.onion/) - Store and transact your BTC coins from an anonymous wallet.
-- EasyCoin](http://vu3miq3vhxljfclehmvy7ezclvsb3vksmug5vuivbpw4zovyszbemvqd.onion/) - A great choice for privacy transactions.
+- [Hidden Wallet](http://d46a7ehxj6d6f2cf4hi3b424uzywno24c7qtnvdvwsah5qpogewoeqid.onion/) - Store and transact your BTC coins from an anonymous wallet.
+- [EasyCoin](http://vu3miq3vhxljfclehmvy7ezclvsb3vksmug5vuivbpw4zovyszbemvqd.onion/) - A great choice for privacy transactions.
 - [Virgin Bitcoins](http://ovai7wvp4yj6jl3wbzihypbq657vpape7lggrlah4pl34utwjrpetwid.onion/) - Buy freshly mined new virgin bitcoins.
 - [CardShop](http://f6wqhy6ii7metm45m4mg6yg76yytik5kxe6h7sestyvm6gnlcw3n4qad.onion/) - You will get a High-Quality known balance cc.
 - [Dark Web Hackers](http://zkj7mzglnrbvu3elepazau7ol26cmq7acryvsqxvh4sreoydhzin7zid.onion/) - They get things done quickly.
@@ -184,7 +184,8 @@ Welcome to the crème de la crème of clandestine connectivity: the Top 10 Viral
 - [SuprBay](http://suprbaydvdcaynfo4dgdzgxb4zuso7rftlil5yg5kqjefnw4wq4ulcad.onion/) - Forum for discussions related to The Pirate Bay and other file-sharing topics.
 - [EndChan](http://enxx3byspwsdo446jujc52ucy2pf5urdbhqw3kbsfhlfjwmbpj5smdad.onion/) - Imageboard community with a variety of discussion boards.
 - [XSS.is](http://xssforumv3isucukbxhdhwz67hoa5e2voakcfuieq4ch257vsburuid.onion/) - Forum for web security and exploits discussion.
-- [Nw York Times](http://ej3kv4ebuugcmuwxctx5ic7zxh73rnxt42soi3tdneu2c2em55thufqd.onion/) - Official website for The New York Times on the dark web. [DarkNetLive](http://darknetlidvrsli6iso7my54rjayjursyw637aypb6qambkoepmyq2yd.onion/) - News and information related to dark web markets and cybercrime.
+- [Nw York Times](http://ej3kv4ebuugcmuwxctx5ic7zxh73rnxt42soi3tdneu2c2em55thufqd.onion/) - Official website for The New York Times on the dark web.
+- [DarkNetLive](http://darknetlidvrsli6iso7my54rjayjursyw637aypb6qambkoepmyq2yd.onion/) - News and information related to dark web markets and cybercrime.
 - [Reddit](http://reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion/) - The official Reddit site accessible on the dark web.
 - [Exploit.in](http://exploitivzcm5dawzhe6c32bbylyggbjvh5dyvsvb5lkuz5ptmunkmqd.onion/) - Forum for discussing exploits and vulnerabilities.
 - [NZ Darknet Market Forum](http://nzdnmfcf2z5pd3vwfyfy3jhwoubv6qnumdglspqhurqnuvr52khatdad.onion/) - Forum for discussions related to dark web markets in New Zealand.
