@@ -22,6 +22,7 @@ Embark on a voyage through the shadows with Verified Onion Links 2024, your guid
 - [Marketplaces - Where Goods Meet Demand](#marketplaces---where-goods-meet-demand)
 - [Privacy Chat, Mail, File Upload](#privacy-chat-mail-file-upload)
 - [Hosting Services](#hosting-services)
+  - [Git Hosting Services](#git-hosting-services)
 - [Forums and News](#forums-and-news)
 - [Popular Websites](#popular-websites)
 - [Archives](#archives)
@@ -173,6 +174,11 @@ Welcome to the crème de la crème of clandestine connectivity: the Top 10 Viral
 - [UDN hosting (UKraine)](http://ax3zoslh2ujdq3joyibdn657mhjfxjm637vxiix7iilxnfbsabces4qd.onion/) - Hosting service based in Ukraine offering privacy-focused solutions.
 - [IncogNet hosting (USA&Netherlands)](http://incoghostm2dytlqdiaj3lmtn7x2l5gb76jhabb6ywbqhjfzcoqq6aad.onion/) - Hosting service with servers located in the USA and Netherlands, prioritizing anonymity and security.
 - [PrivateAlps (Switzerland)](http://4wfsdhkbrdt6jwlozcmw2lzthoghgdrt3pty2vfre2ysdguvpazwfjad.onion/) - Hosting service based in Switzerland, offering secure and private hosting solutions.
+
+### Git Hosting Services
+
+- [DarkTea](http://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/)
+- [RightToPrivacy](http://gg6zxtreajiijztyy5g6bt5o6l3qu32nrg7eulyemlhxwwl6enk6ghad.onion/)
 
 ## Forums and News
 
